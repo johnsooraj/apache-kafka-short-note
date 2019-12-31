@@ -10,7 +10,7 @@ Start Zookeeper (port: 2181) (cmd: ./bin/zookeeper-server.start.sh config/zookee
 Start Kafka Server (port: 9092) (cmd: ./bin/kafka-server.start.sh config/server.peoperties)
 IMP -> these are default port for the servers, we can change it in config/XXXX.properties file
 
-Please see the video : below
+Please see the video : above
 
 Apache Kafka Ecosystem
 
